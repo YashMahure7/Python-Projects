@@ -1,0 +1,1 @@
+News App in Python by integrating with news APIs like NewsAPI. This app will fetch the latest headlines, display articles, and allow users to filter news based on categories or keywords. It helps you practice working with APIs, handling JSON data, and building user interfaces.
